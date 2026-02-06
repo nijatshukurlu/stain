@@ -266,16 +266,6 @@ Security posture:
 
 ---
 
-## Contributing
-
-**This is a solo project maintained by the architect. Contributions are not currently accepted.**
-
-The project follows a strict zero-knowledge architecture and maintains minimal dependencies for security reasons. All development is handled internally to ensure the highest security standards.
-
-If you find security vulnerabilities or have critical feedback, please report them through appropriate channels.
-
----
-
 ## License & Architect
 
 **License:** [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
