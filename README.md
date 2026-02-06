@@ -8,9 +8,9 @@
 ✅ Binary Surgery: 10/10 | ✅ Zero-Knowledge Architecture: 10/10 | ✅ Forensic Precision: 10/10 | ✅ UI Aesthetics: 9/10
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nijatshukurlu/the-stain)
-[![Version](https://img.shields.io/github/package-json/v/nijatshukurlu/the-stain/main?label=version)](https://github.com/nijatshukurlu/the-stain)
-[![100% Zero-Knowledge](https://img.shields.io/badge/Zero--Knowledge-100%25-000000)](https://github.com/nijatshukurlu/the-stain)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nijatshukurlu/stain)
+[![Version](https://img.shields.io/github/package-json/v/nijatshukurlu/stain/main?label=version)](https://github.com/nijatshukurlu/stain)
+[![100% Zero-Knowledge](https://img.shields.io/badge/Zero--Knowledge-100%25-000000)](https://github.com/nijatshukurlu/stain)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-blue)](https://www.typescriptlang.org/)
 
 </div>
@@ -25,7 +25,6 @@
 - Usage
 - API Reference
 - Development
-- Contributing
 - License
 
 ---
@@ -143,8 +142,8 @@ Prerequisites:
 Step-by-step:
 ```bash
 # Clone the repository
-git clone https://github.com/nijatshukurlu/the-stain.git
-cd the-stain
+git clone https://github.com/nijatshukurlu/stain.git
+cd stain
 
 # Install dependencies
 npm install
@@ -269,18 +268,11 @@ Security posture:
 
 ## Contributing
 
-We welcome issues and pull requests focused on precision, security, and clarity.
+**This is a solo project maintained by the architect. Contributions are not currently accepted.**
 
-Guidelines:
-- Fork the repo and create a feature branch
-- Keep changes focused; add tests or validation where applicable
-- Follow ESLint and TypeScript strictness
-- Write clear commit messages (Conventional Commits recommended)
-- Ensure `npm run build` and `npm run lint` pass locally
+The project follows a strict zero-knowledge architecture and maintains minimal dependencies for security reasons. All development is handled internally to ensure the highest security standards.
 
-Security and privacy:
-- Never introduce telemetry, analytics, or network calls
-- Do not add attribution or signatures to purified binaries
+If you find security vulnerabilities or have critical feedback, please report them through appropriate channels.
 
 ---
 
